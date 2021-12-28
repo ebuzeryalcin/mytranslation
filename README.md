@@ -2,6 +2,18 @@
 
 Here is the [Translation card app](https://mytranslation-app.netlify.app/) on Netlify, Enjoy!
 
+# Technologies
+Full Stack MERN Application:
+- React
+- Redux
+- Node
+- Express
+- Javascript
+- HTML5
+- CSS3
+- MaterialUI
+- MongoDB
+
 ## Deployment
 ### Deploy
 
