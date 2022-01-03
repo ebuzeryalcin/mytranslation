@@ -1,5 +1,7 @@
 # mytranslation
 
+![Desktop and mobile wireframe sample](client/src/images/mytranslation.png)
+
 Here is the [Translation card app](https://mytranslation-app.netlify.app/) on Netlify, Enjoy!
 
 # Technologies
